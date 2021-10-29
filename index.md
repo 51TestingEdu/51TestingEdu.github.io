@@ -1,4 +1,4 @@
-## Welcome to Learning-Software-Testing
+## :clap:Welcome to Learning-Software-Testing
 
 为了方便0基础的同学入门软件测试，我们整理了【**70G软件测试资料包**】，包含了公开课程、软件测试电子书籍、视频讲义、软件工具以及大厂软件测试面试宝典等等。
 
