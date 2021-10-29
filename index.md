@@ -9,7 +9,7 @@
 # 以下是文件目录：
 
 ### 软件测试学习路径及讲义：
-1\.软件测试工程师知识图谱  :point_right:   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg):point_up:
+1\.软件测试工程师知识图谱     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up::point_up::point_up:
 
 2\. 软件测试基础讲义     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)
 
