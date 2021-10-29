@@ -11,91 +11,91 @@
 
 2\. 软件测试基础讲义 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-3\. 软件测试学习路径     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+3\. 软件测试学习路径 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
 ### 软件测试从入门到提升：
-1\. 测试基础     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+1\. 测试基础 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-2\. 软件需求     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+2\. 软件需求 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-3\. 测试过程     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+3\. 测试过程 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-4\. 通用测试用例     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+4\. 通用测试用例 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-5\. 测试方法     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+5\. 测试方法 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-6\. 测试用例设计     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+6\. 测试用例设计 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-7\. 测试覆盖率     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+7\. 测试覆盖率 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-8\. 缺陷管理     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+8\. 缺陷管理 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-9\. 项目实践     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+9\. 项目实践 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-10\. IT     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+10\. IT ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-11\. Oracle     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+11\. Oracle ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-12\. Web测试     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+12\. Web测试 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-13\. Jmeter     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+13\. Jmeter ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-14\.LoadRunner     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+14\.LoadRunner ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-15\.qtp     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+15\.qtp ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-16\.ST     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+16\.ST ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-17\.UT     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+17\.UT ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
 
 ### 职场与面试
-1\. 软件测试技术类面试题集锦     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+1\. 软件测试技术类面试题集锦 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-2\. 218套求职简历精华模板     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+2\. 218套求职简历精华模板 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
 ### 大厂软件测试沙龙资料：
-1\. 奇虎360技术沙龙资料     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+1\. 奇虎360技术沙龙资料 ---- [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-2\. 知乎软件测试沙龙PPT     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+2\. 知乎软件测试沙龙PPT ----    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-3\. 20190427广州测试沙龙     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+3\. 20190427广州测试沙龙 ----    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-4\. 阿里巴巴技术嘉年华资料     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+4\. 阿里巴巴技术嘉年华资料  ----   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-5\. 美团点评2019测试技术资料     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+5\. 美团点评2019测试技术资料   ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-6\. 携程测试沙龙技术资料     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+6\. 携程测试沙龙技术资料 ----    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
 ### 软件测试工程师必备电子书
 
-1\.《Python测试之道》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+1\.《Python测试之道》  ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-2\.《google软件测试之道》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+2\.《google软件测试之道》  ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-3\.《JAVA自动化测试实战》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+3\.《JAVA自动化测试实战》  ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-4\.《mysql必知必会》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+4\.《mysql必知必会》 ----   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-5\.《Python自动化测试实战》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+5\.《Python自动化测试实战》----    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-6\.《QTP自动化测试实践》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+6\.《QTP自动化测试实践》  ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-7\.《robot_framework自动化测试》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+7\.《robot_framework自动化测试》  ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-8\.《大话移动APP测试》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+8\.《大话移动APP测试》 ----   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-9\.《计算机软件测试》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+9\.《计算机软件测试》----    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-10\.《敏捷软件测试》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+10\.《敏捷软件测试》 ----   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-11\.《全程软件测试》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+11\.《全程软件测试》 ----   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-12\.《软件测试工程师面试指导》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+12\.《软件测试工程师面试指导》 ----   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-13\.《性能测试从零开始》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+13\.《性能测试从零开始》 ----   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
-14\.《软件测试基础》    [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
+14\.《软件测试基础》  ----  [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg) 提取码:point_up:
 
 
 # 关于培训
