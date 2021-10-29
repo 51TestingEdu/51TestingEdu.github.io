@@ -1,6 +1,6 @@
 ## :clap:Welcome to Learning-Software-Testing
 
-为了方便0基础的同学入门软件测试，我们整理了【**70G软件测试资料包**】，包含了公开课程、软件测试电子书籍、视频讲义、软件工具以及大厂软件测试面试宝典等等。
+为了方便0基础的同学入门软件测试，我们整理了:fire:【**70G软件测试资料包**】，包含了公开课程、软件测试电子书籍、视频讲义、软件工具以及大厂软件测试面试宝典等等。
 
 :+1:为保证连接的持久性，以下压缩包均添加了密码 <a href="http://kbyx0011.mikecrm.com/qCumvim">【**点击这里获取解压密码**】</a>
 
@@ -9,7 +9,7 @@
 # 以下是文件目录：
 
 ### 软件测试学习路径及讲义：
-1\.软件测试工程师知识图谱     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)
+1\.软件测试工程师知识图谱  :point_right:   [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg):point_up:
 
 2\. 软件测试基础讲义     [百度网盘链接](https://pan.baidu.com/s/1lWRDgagpYj_1G9KIqVkLDg)
 
